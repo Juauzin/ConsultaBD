@@ -1,0 +1,1 @@
+Necessario recriar o banco de dados, foi excluido e não é possivel fazer consultas
